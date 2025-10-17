@@ -3,7 +3,7 @@
 🎓 **Data & AI Engineering Student | Quant Enthusiast | Finance, economics & politics Enthusiast**
 
 Welcome to my GitHub profile!  
-I’m passionate about **Artificial Intelligence**, **Data Engineering**, **Economics** and **Quantitative Finance** — always looking for ways to bridge technology, data, and decision-making.
+I’m passionate about **Artificial Intelligence**, **Data Engineering**, **Economics**, **Geopolitics** and **Quantitative Finance** — always looking for ways to bridge technology, data, and decision-making.
 
 ---
 
@@ -34,10 +34,12 @@ I’m passionate about **Artificial Intelligence**, **Data Engineering**, **Econ
 ## 🧠 Interests & Hobbies
 When I’m not coding or studying models, you’ll probably find me:
 - 🏌️‍♂️ Playing **golf** or **padel**
-- 🥋 Training Judo  
+- 🥋 Training **Judo**  
 - 📈 Analyzing **financial markets**  
-- 📖 Reading economic theories 
-- ⚖️ Debating with my friends 
+- 📖 Reading an learning about different **economic theories**
+- 🎬 Watching **documentaries**
+- 🎙️ Listening to **geopolitics** podcasts
+- ⚖️ **Debating** with my friends 
 
 ---
 
