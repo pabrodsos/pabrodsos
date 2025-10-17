@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there! I'm Pablo  
 
-<!--
-**pabrodsos/pabrodsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data & AI Engineering Student | Quant Enthusiast | Finance, economics & politics Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about **Artificial Intelligence**, **Data Engineering**, **Economics** and **Quantitative Finance** — always looking for ways to bridge technology, data, and decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 What I'm Learning
+- Advanced **Deep Learning** architectures (Transformers, Diffusion Models).  
+- **Quantitative Finance**: algorithmic trading, portfolio optimization, and financial modeling.  
+- **Big Data infrastructure**: Spark, Kafka, and scalable ML pipelines.  
+- **Causal inference** and **Bayesian networks** for AI explainability.  
+
+---
+
+## ⚡ Tech Stack
+- **Languages:** Python, SQL, R, Java, C++
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn, Keras  
+- **Data:** Pandas, NumPy, Spark, MongoDB, Networkx
+- **Cloud & DevOps:** Google Cloud, Docker, Git, Linux  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Dash, Tableau  
+
+---
+
+## 🎯 Goals
+- Participate in big bank quant projects.  
+- Build intelligent agents capable of learning from complex environments.  
+- Combine **data science** and **finance** to design real-world predictive models.  
+
+---
+
+## 🧠 Interests & Hobbies
+When I’m not coding or studying models, you’ll probably find me:
+- 🏌️‍♂️ Playing **golf** or **padel**
+- 🥋 Training Judo  
+- 📈 Analyzing **financial markets**  
+- 📖 Reading economic theories 
+- ⚖️ Debating with my friends 
+
+---
+
+
+> “Nullius in verba.”
+
