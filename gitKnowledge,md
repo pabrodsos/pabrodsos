@@ -1,0 +1,30 @@
+# Git, GitHub Summary
+
+## What I Know
+- **Git:** version control system for tracking code changes.  
+  Key commands: `git add`, `git commit`, `git push`, `git pull`, `git branch`, `git merge`.  
+- **GitHub:** online platform for hosting repositories and collaborating..  
+  I use GitHub Projects to organize tasks and document progress.
+
+---
+
+## Project Management Tools
+
+### MoSCoW Prioritization
+- **M:** Must have  
+- **S:** Should have  
+- **C:** Could have  
+- **W:** Won’t have  
+Helps keeping our priorities focused.
+
+### T-Shirt Sizing
+Estimate task effort with **XS / S / M / L / XL** to express complexity.
+
+---
+
+## Still Confused About
+- Merge conflicts and when to use **rebase**.  
+- SSHs.  
+- Pull requests.
+- New Github update.
+- Ways to assing tasks to my team, (task managing).
