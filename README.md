@@ -8,7 +8,7 @@ I’m passionate about **Artificial Intelligence**, **Data Engineering**, **Econ
 ---
 
 ## 📚 What I'm Learning
-- Advanced **Deep Learning** architectures (Transformers, Diffusion Models).  
+- Advanced **Deep Learning** architectures.  
 - **Quantitative Finance**: algorithmic trading, portfolio optimization, and financial modeling.  
 - **Big Data infrastructure**: Spark, Kafka, and scalable ML pipelines.  
 - **Causal inference** and **Bayesian networks** for AI explainability.  
