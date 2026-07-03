@@ -37,7 +37,7 @@ I’m especially interested in the intersection of **AI, data, finance, economic
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - Python, SQL, PL/SQL, R, Java, C++
 - Pandas, NumPy, NetworkX
@@ -64,12 +64,12 @@ I’m especially interested in the intersection of **AI, data, finance, economic
 ### Data Engineering, Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - PySpark, MLflow, Docker, Git
-- Google Cloud
+- AWS
 - Linux, Windows and macOS
 - GPU programming and OpenMP
 
@@ -85,8 +85,6 @@ I’m especially interested in the intersection of **AI, data, finance, economic
 - Dashboard design and data storytelling
 
 ---
-
-
 
 ## 🎯 Current Interests
 
