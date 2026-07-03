@@ -24,8 +24,8 @@ I’m especially interested in the intersection of **AI, data, finance, economic
 
 ## 🧩 Academic & Technical Highlights
 
-- Worked on an **ethical and legal AI audit** of a geolocation-based AI system, focusing on privacy, bias, GDPR compliance, and the EU AI Act.
-- Developed data pipelines and machine learning models for an **aeronautical sector project**, including taxi-out time prediction using ADS-B data.
+- Worked as a class project on an **ethical and legal AI audit** of a geolocation-based AI system, focusing on privacy, bias, GDPR compliance, and the EU AI Act.
+- Developed data pipelines and machine learning models for an **aeronautical sector project**, including taxi-out time prediction using ADS-B data as part of my Data Project subject.
 
 ---
 
