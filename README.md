@@ -110,10 +110,5 @@ When I’m not coding, studying models, or analyzing markets, you’ll probably 
 
 ---
 
-## 📫 Connect with Me
-
-- LinkedIn: [Pablo Sosa]([https://www.linkedin.com/in/pablo-sosa-0789a3225](https://www.linkedin.com/in/pablo-m-rodríguez-sosa-0789a3225 )
-
----
 
 > **“Nullius in verba.”**
