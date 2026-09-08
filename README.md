@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile.
 
-I'm currently studying **Data Engineering and Artificial Intelligence** at the **Complutense University of Madrid (UCM)**, where I focus on scalable data systems, machine learning, and GenAI applications.
+I'm currently studying **Data and Artificial Intelligence Engineering** at the **Complutense University of Madrid (UCM)**, where I focus on scalable data systems, machine learning, and GenAI applications.
 
 I’m especially interested in the intersection of **AI, data, finance, economics, ethics, geopolitics, and decision-making**. I enjoy building projects where technology is not only technically strong, but also useful, explainable, and aligned with real-world constraints.
 
