@@ -1,31 +1,30 @@
 # 👋 Hi there, I'm Pablo
 
-🎓 **Data & AI Engineering Student**  
-🤖 **GenAI · Data Engineering · AI Ethics · Quant Finance**
+🎓 **B.Sc. student in Data Engineering and Artificial Intelligence at UCM**  
+🛠️ **Data Engineering · Machine Learning · Generative AI**  
+📈 **Also interested in economics and finance**
 
-Welcome to my GitHub profile.
-
-I'm currently studying **Data and Artificial Intelligence Engineering** at the **Complutense University of Madrid (UCM)**, where I focus on scalable data systems, machine learning, and GenAI applications.
-
-I’m especially interested in the intersection of **AI, data, finance, economics, ethics, geopolitics, and decision-making**. I enjoy building projects where technology is not only technically strong, but also useful, explainable, and aligned with real-world constraints.
+I work on projects spanning data pipelines, machine learning, NLP, and local LLM applications. I enjoy taking a problem from data exploration to a working solution, then explaining the results clearly.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. student in **Data Engineering and Artificial Intelligence** at UCM.
-- 🧠 Interested in **Machine Learning, Deep Learning, LLMs, RAG systems, and agentic workflows**.
-- ⚖️ Focused on **AI ethics, privacy, regulation, and responsible AI deployment**.
-- 📊 Passionate about **quantitative finance, markets, economics, and political decision-making**.
-- 🗣️ Degree representative in the **GIDIA Quality Committee** at UCM.
-- 🌍 Interested in projects that combine technical depth, analytical thinking, and real-world impact.
+- 🗣️ Student representative on UCM's Undergraduate Degree Quality Committee.
+- 🎤 Presented the design of BASTION-Bench at the seLIA conference.
+- 🏅 Recognized for the best technical response in Deloitte's IT & Data Challenge.
+- ⚖️ Explored privacy, bias, explainability, and AI regulation through the GPS-Safe project.
+- 🤝 I enjoy team projects that combine technical work, communication, and coordination.
 
 ---
 
-## 🧩 Academic & Technical Highlights
+## 🧩 Featured Projects
 
-- Worked as a class project on an **ethical and legal AI audit** of a geolocation-based AI system, focusing on privacy, bias, GDPR compliance, and the EU AI Act.
-- Developed data pipelines and machine learning models for an **aeronautical sector project**, including taxi-out time prediction using ADS-B data as part of my Data Project subject.
+- **[BASTION-Bench](https://github.com/pabrodsos/BASTION-Bench)** *(in progress)* — An undergraduate thesis project designing a bilingual benchmark for safety and utility trade-offs in language models.
+- **[NLP Lab](https://github.com/pabrodsos/nlp-lab)** — A collaborative five-module project covering autonomous negotiation, speech processing, encoding, search/RAG, and a small PyTorch language model.
+- **[MacBrides Aerospace](https://github.com/pabrodsos/macbrides-aerospace)** — Contributed to an ADS-B and machine learning team project predicting time to takeoff at Madrid-Barajas. A reference Gradient Boosting experiment reached about 68 seconds of mean absolute error, with limitations for longer waits.
+- **[Library Assistant AI](https://github.com/pabrodsos/library-assistant-ai)** — Co-developed a local LLM assistant using Python, Ollama, and Llama 3.2 1B, with a curated knowledge base and conversational context.
+- **[GPS-Safe](https://github.com/EthicsAI-UCM/GPS-Safe)** — Served as Product Owner on a conceptual AI-assisted navigation project examining privacy, bias, explainability, and risk, with GDPR and EU AI Act considerations.
 
 ---
 
@@ -68,8 +67,8 @@ I’m especially interested in the intersection of **AI, data, finance, economic
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- PySpark, MLflow, Docker, Git
-- AWS
+- Spark/PySpark, Airflow, ETL and MLflow
+- AWS, Google Cloud, Docker and Git
 - Linux, Windows and macOS
 - GPU programming and OpenMP
 
@@ -88,17 +87,17 @@ I’m especially interested in the intersection of **AI, data, finance, economic
 
 ## 🎯 Current Interests
 
-- Building reliable **LLM-based applications**.
-- Designing scalable **data and ML pipelines**.
-- Studying the trade-offs between **AI safety, utility, ethics, and regulation**.
-- Applying data science to **finance, markets, economics, and public decision-making**.
-- Exploring how intelligent agents can reason, learn, and operate in complex environments.
+- Building reliable LLM applications and exploring agentic workflows.
+- Designing scalable data and machine learning pipelines.
+- Understanding how models perform, where they fail, and how they support decisions.
+- Exploring applications of data science in economics, finance, and public decision-making.
+- Following developments in AI safety, ethics, and regulation.
 
 ---
 
 ## 🧠 Beyond Code
 
-When I’m not coding, studying models, or analyzing markets, you’ll probably find me:
+Outside coding and coursework, you’ll probably find me:
 
 - 🏌️‍♂️ Playing golf or padel
 - 🥋 Training judo
